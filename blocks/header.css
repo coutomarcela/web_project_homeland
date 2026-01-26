@@ -4,7 +4,7 @@
   padding-top: 34px;
 }
 
-.logo__image {
+.header__image {
   width: 254px;
   height: 70px;
 }
@@ -13,7 +13,7 @@
   .header {
     padding-top: 30px;
   }
-  .logo__image {
+  .header__image {
     height: 66px;
   }
 }
@@ -22,7 +22,7 @@
   .header {
     padding-top: 20px;
   }
-  .logo__image {
+  .header__image {
     height: 52px;
     width: 188px;
   }
