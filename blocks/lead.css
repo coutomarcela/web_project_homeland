@@ -13,10 +13,7 @@
   font-family: Inter;
   letter-spacing: 0%;
   margin: 50px auto;
-}
-
-.lead__title__span {
-  display: block;
+  max-width: 720px;
 }
 
 .lead__subtitle {
