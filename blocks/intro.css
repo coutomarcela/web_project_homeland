@@ -1,5 +1,4 @@
 .intro {
-  font-family: "Inter";
   color: #fff;
   max-width: 984px;
   margin: 0 auto;
@@ -37,8 +36,9 @@
 
 @media screen and (max-width: 1024px) {
   .intro {
-    padding: 0 24px;
+    margin: 24px 24px;
   }
+
   .intro__title {
     font-size: 45px;
     line-height: 49px;
