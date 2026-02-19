@@ -1,0 +1,21 @@
+.places {
+  max-width: 984px;
+  margin: 0 auto;
+  /* max-width + margin 0 auto centralizam o elemento */
+}
+
+@media screen and (max-width: 1024px) {
+  .places {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 0 24px 0;
+  }
+}
+
+@media screen and (max-width: 544px) {
+  .places {
+    max-width: 320px;
+    margin: 0 auto;
+    padding: 0;
+  }
+}
